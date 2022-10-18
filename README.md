@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Starting c programming
+Write a program that prints _putchar, followed by a new line.
