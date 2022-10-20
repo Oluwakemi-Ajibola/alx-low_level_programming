@@ -2,6 +2,7 @@
 
 /**
  * print_triangle - entry point
+ * size: description
  * Description: Prints diagonals
  * Return: void
  */
